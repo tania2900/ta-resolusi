@@ -1,3 +1,5 @@
 TA RESOLUSI
 - CRUD menggunakan laravel
 - belajar laravel
+- bercita-cita membuat merch shop
+- belajar laravel lebih dalam
