@@ -1,0 +1,3 @@
+TA RESOLUSI
+- CRUD menggunakan laravel
+- belajar laravel
